@@ -18,7 +18,7 @@ class Field extends Component {
     return (
       <div>
         <label>{this.state.value}</label><br/>
-        <input type='password' onChange={ this.handleChange }
+        <input onChange={ this.handleChange }
           value={ this.state.value } />
       </div>
     )
