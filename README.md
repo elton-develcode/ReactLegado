@@ -1,2 +1,0 @@
-# ReactLegado
-Exercicio de ReactJS 
